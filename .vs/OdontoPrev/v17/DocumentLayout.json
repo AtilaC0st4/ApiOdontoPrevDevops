@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{49499424-FB20-4FB6-88FF-B0259714E0F1}|OdontoPrev.csproj|c:\\users\\\u00E1tila\\desktop\\apiodontoprevdevops\\controllers\\brushingrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49499424-FB20-4FB6-88FF-B0259714E0F1}|OdontoPrev.csproj|solutionrelative:controllers\\brushingrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49499424-FB20-4FB6-88FF-B0259714E0F1}|OdontoPrev.csproj|c:\\users\\\u00E1tila\\desktop\\apiodontoprevdevops\\models\\brushingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49499424-FB20-4FB6-88FF-B0259714E0F1}|OdontoPrev.csproj|solutionrelative:models\\brushingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49499424-FB20-4FB6-88FF-B0259714E0F1}|OdontoPrev.csproj|c:\\users\\\u00E1tila\\desktop\\apiodontoprevdevops\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49499424-FB20-4FB6-88FF-B0259714E0F1}|OdontoPrev.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrushingRecord.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1tila\\Desktop\\ApiOdontoPrevDevops\\Models\\BrushingRecord.cs",
+              "RelativeDocumentMoniker": "Models\\BrushingRecord.cs",
+              "ToolTip": "C:\\Users\\\u00C1tila\\Desktop\\ApiOdontoPrevDevops\\Models\\BrushingRecord.cs",
+              "RelativeToolTip": "Models\\BrushingRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:36:13.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1tila\\Desktop\\ApiOdontoPrevDevops\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\\u00C1tila\\Desktop\\ApiOdontoPrevDevops\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:58:22.472Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "Controllers\\BrushingRecordsController.cs",
               "ToolTip": "C:\\Users\\\u00C1tila\\Desktop\\ApiOdontoPrevDevops\\Controllers\\BrushingRecordsController.cs",
               "RelativeToolTip": "Controllers\\BrushingRecordsController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAowAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T20:57:56.509Z",
               "EditorCaption": ""
@@ -41,7 +75,7 @@
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\\u00C1tila\\Desktop\\ApiOdontoPrevDevops\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AQIAAGUAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAkwIwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T20:30:10.735Z",
               "EditorCaption": ""

@@ -45,7 +45,7 @@ A API foi desenvolvida utilizando uma **arquitetura monolítica**, pois essa abo
 
 A API está hospedada na Azure e pode ser acessada através do seguinte link:  
 
-🔗 **[Documentação da API (Swagger)](https://apiodontoprev.azurewebsites.net/swagger/index.html)**  
+🔗 **[Documentação da API (Swagger)](https://[apiodontoprevv2.azurewebsites.net/swagger/index.html])**  
 
 ---  
 

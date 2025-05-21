@@ -33,17 +33,17 @@ namespace OdontoPrev.Migrations
                     b.Property<DateTime>("BrushingTime")
                         .HasColumnType("TIMESTAMP(7)");
 
-                    b.Property<string>("Period")
-                        .IsRequired()
-                        .HasMaxLength(10)
-                        .HasColumnType("NVARCHAR2(10)");
+                    b.Property<int>("UserId")
+                        .HasColumnType("NUMBER(10)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("BrushingRecords");
                 });
 
-            modelBuilder.Entity("OdontoPrev.Models.User", b =>
+            modelBuilder.Entity("User", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -62,6 +62,22 @@ namespace OdontoPrev.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("OdontoPrev.Models.BrushingRecord", b =>
+                {
+                    b.HasOne("User", "User")
+                        .WithMany("BrushingRecords")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("User", b =>
+                {
+                    b.Navigation("BrushingRecords");
                 });
 #pragma warning restore 612, 618
         }

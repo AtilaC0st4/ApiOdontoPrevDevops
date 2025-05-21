@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Átila\\Desktop\\ApiOdontoPrevDevops\\OdontoPrev.csproj": {}
+    "C:\\Users\\Átila\\OneDrive\\Área de Trabalho\\Sprint4\\ApiOdontoPrev\\OdontoPrev.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Átila\\Desktop\\ApiOdontoPrevDevops\\OdontoPrev.csproj": {
+    "C:\\Users\\Átila\\OneDrive\\Área de Trabalho\\Sprint4\\ApiOdontoPrev\\OdontoPrev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Átila\\Desktop\\ApiOdontoPrevDevops\\OdontoPrev.csproj",
+        "projectUniqueName": "C:\\Users\\Átila\\OneDrive\\Área de Trabalho\\Sprint4\\ApiOdontoPrev\\OdontoPrev.csproj",
         "projectName": "OdontoPrev",
-        "projectPath": "C:\\Users\\Átila\\Desktop\\ApiOdontoPrevDevops\\OdontoPrev.csproj",
+        "projectPath": "C:\\Users\\Átila\\OneDrive\\Área de Trabalho\\Sprint4\\ApiOdontoPrev\\OdontoPrev.csproj",
         "packagesPath": "C:\\Users\\Átila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Átila\\Desktop\\ApiOdontoPrevDevops\\obj\\",
+        "outputPath": "C:\\Users\\Átila\\OneDrive\\Área de Trabalho\\Sprint4\\ApiOdontoPrev\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Átila\\AppData\\Roaming\\NuGet\\NuGet.Config",
